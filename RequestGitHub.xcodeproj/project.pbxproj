@@ -27,7 +27,6 @@
 		501D6D3C23E99F9F0028A8BA /* RequestPullRequestDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 501D6D3B23E99F9F0028A8BA /* RequestPullRequestDelegate.swift */; };
 		501D6D4023E9A8D60028A8BA /* PullRequestTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 501D6D3E23E9A8D60028A8BA /* PullRequestTableViewCell.swift */; };
 		501D6D4123E9A8D60028A8BA /* PullRequestTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 501D6D3F23E9A8D60028A8BA /* PullRequestTableViewCell.xib */; };
-		501D6D4823E9B4510028A8BA /* RepositoryTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 501D6D4723E9B4510028A8BA /* RepositoryTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -66,7 +65,6 @@
 		501D6D3B23E99F9F0028A8BA /* RequestPullRequestDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestPullRequestDelegate.swift; sourceTree = "<group>"; };
 		501D6D3E23E9A8D60028A8BA /* PullRequestTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PullRequestTableViewCell.swift; sourceTree = "<group>"; };
 		501D6D3F23E9A8D60028A8BA /* PullRequestTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PullRequestTableViewCell.xib; sourceTree = "<group>"; };
-		501D6D4723E9B4510028A8BA /* RepositoryTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepositoryTest.swift; sourceTree = "<group>"; };
 		501D6D4923E9B47C0028A8BA /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
 
@@ -109,7 +107,6 @@
 				501D6D4423E9B2A70028A8BA /* RequestDelegate */,
 				501D6D1723E7A7790028A8BA /* Main.storyboard */,
 				501D6D1123E7A7790028A8BA /* AppDelegate.swift */,
-				501D6D4723E9B4510028A8BA /* RepositoryTest.swift */,
 				501D6D1323E7A7790028A8BA /* SceneDelegate.swift */,
 				501D6D2D23E8C8C00028A8BA /* Utils.swift */,
 				501D6D1A23E7A77D0028A8BA /* Assets.xcassets */,
@@ -268,7 +265,6 @@
 				501D6D1423E7A7790028A8BA /* SceneDelegate.swift in Sources */,
 				501D6D3C23E99F9F0028A8BA /* RequestPullRequestDelegate.swift in Sources */,
 				501D6D2623E7AC590028A8BA /* RequestRepositoryDelegate.swift in Sources */,
-				501D6D4823E9B4510028A8BA /* RepositoryTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
